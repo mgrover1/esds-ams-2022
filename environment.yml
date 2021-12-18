@@ -1,4 +1,4 @@
-name: esds-ams-2021-dev
+name: esds-ams-2022-dev
 channels:
   - conda-forge
 dependencies:
