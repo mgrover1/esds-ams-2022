@@ -1,0 +1,7 @@
+name: esds-ams-2021-dev
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - rise
